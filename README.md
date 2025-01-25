@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @RajP-17
-- 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning Machine Learning
+# Raj Patel - Machine Learning, VLSI, and Computer Hardware Engineering Enthusiast 👨‍💻
 
-
-<!---
-RajP-17/RajP-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm Raj Patel, a Computer Engineering student at the University of North Carolina at Charlotte, with a strong passion for Machine Learning, VLSI design, and Computer Hardware Engineering. My goal is to bridge the gap between hardware and software to create innovative and efficient systems.
